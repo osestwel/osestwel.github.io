@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osestwel.github.io/sitemap.html.gz
+Sitemap: https://osestwel.github.io/app/sitemap.html.gz
+Sitemap: https://osestwel.github.io/assets/sitemap.html.gz
+Sitemap: https://osestwel.github.io/css/sitemap.html.gz
+Sitemap: https://osestwel.github.io/data/sitemap.html.gz
+Sitemap: https://osestwel.github.io/includes/sitemap.html.gz
+Sitemap: https://osestwel.github.io/item/sitemap.html.gz
+Sitemap: https://osestwel.github.io/src/sitemap.html.gz
